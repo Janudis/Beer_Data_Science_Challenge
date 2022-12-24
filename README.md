@@ -10,8 +10,8 @@ Your Senior Data Scientist has given you a series of tasks to complete
 
 Your Senior Data Scientist has a couple of guidelines for you to code by which you will be assessed:
 
-If you import any module, specify for what it is going to be used
-Do not change the original data sources, perform all the operations on this Jupyter Notebook
-If you take assumptions during your analysis, be sure to specify them
-Be sure to comment your code so it can be easily read
-Make sure there are no errors in the code after handing it in
+* If you import any module, specify for what it is going to be used
+* Do not change the original data sources, perform all the operations on this Jupyter Notebook
+* If you take assumptions during your analysis, be sure to specify them
+* Be sure to comment your code so it can be easily read
+* Make sure there are no errors in the code after handing it in
